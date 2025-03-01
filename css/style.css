@@ -42,6 +42,11 @@
     width: 400px;
     height: 70px;
     float: left;
+    font-family: "Noto Sans Khmer", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-variation-settings: "wdth" 100;
 }
 ul{
     display: flex;
